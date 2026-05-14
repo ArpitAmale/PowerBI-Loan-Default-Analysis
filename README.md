@@ -169,7 +169,7 @@ Aspiring Data Analyst
 LinkedIn: www.linkedin.com/in/
 arpit-amale-89796a27b
 
-GitHub: github.com/yourusername
+GitHub: https://github.com/ArpitAmale
 Email: arpitamale100@gmail.com
 
 ---
