@@ -131,7 +131,7 @@ The following columns and measures were created inside Power BI:
 ### Page 1 — Loan Default and Overview
 
 
-![Page 1]("C:\Users\ASUS\OneDrive\Desktop\UDEMY Project\Dataflow Project\Loan Default & Overview.png")
+("C:\Users\ASUS\OneDrive\Desktop\UDEMY Project\Dataflow Project\Loan Default & Overview.png")
 
 
 
