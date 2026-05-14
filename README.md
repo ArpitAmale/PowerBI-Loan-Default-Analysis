@@ -131,7 +131,7 @@ The following columns and measures were created inside Power BI:
 ### Page 1 — Loan Default and Overview
 
 
-"(Dataflow Project\Loan Default & Overview.png")
+<img width="1656" height="952" alt="Image" src="https://github.com/user-attachments/assets/13fbb218-6d4d-438f-8c16
 
 
 
