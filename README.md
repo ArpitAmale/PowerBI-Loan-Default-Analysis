@@ -48,24 +48,21 @@ and how has that risk changed over time?"
 
 ## 🔍 Key Insights
 
-- Unemployed borrowers default at 3.69% versus 2.36% for 
-  full-time employees — making them 57% higher risk
+- Unemployed borrowers default at a rate of 3.49% versus 2.36% for 
+  full-time employees — making employment status a major risk indicator.
 
-- Default rates peaked in 2016–2017 at 11.75%, which aligns 
-  directly with the loan volume growth spike in the same period
+- Default rates saw a historical peak in the year 2016 at exactly 11.75%.
 
-- Home loans are the largest borrowing segment at 6,545M, 
-  followed by Business loans at 6,522M
+- Home loans are the largest borrowing segment by volume at $6.54B, 
+  followed closely by Business loans at $6.52B.
 
-- Adults borrow the highest average loan amount at 127,901 
-  while Teens borrow the least at 126,674
+- Adult age groups borrow the highest average loan amount at $127,901, 
+  while Teens borrow the least at $126,674.
 
-- Borrowers with higher credit scores request slightly lower 
-  loan amounts — indicating financially responsible behavior
+- Borrowers with "High" credit scores have a lower median loan amount 
+  ($127,149) compared to those with "Low" scores ($128,397) — indicating 
+  more conservative borrowing behavior among high-credit individuals.
 
-- High income borrowers are predominantly full-time employed 
-  yet still represent a significant share of total defaults, 
-  proving that income alone is not a reliable default predictor
 
 ---
 
@@ -130,22 +127,24 @@ The following columns and measures were created inside Power BI:
 
 ### Page 1 — Loan Default and Overview
 
+<img width="1656" height="952" alt="Loan Default   Overview" src="https://github.com/user-attachments/assets/1db61a31-8802-4985-9e02-5612ffb27c52" />
 
-<img width="1656" height="952" alt="Image" src="https://github.com/user-attachments/assets/13fbb218-6d4d-438f-8c16
+
 
 
 
 ### Page 2 — Applicant Demographics and Financial Profile
 
 
-![Page 2](screenshots/page2_demographics.png)
+<img width="1659" height="958" alt="Application Demographics   Financial Profile" src="https://github.com/user-attachments/assets/b6ccbe2c-ac39-49b7-af1b-7656949ea71b" />
+
 
 
 
 ### Page 3 — Financial Risk Matrix
 
+<img width="1657" height="958" alt="Financial Risk Matrix" src="https://github.com/user-attachments/assets/18e4de99-ba65-49be-9904-c198716c7fbb" />
 
-![Page 3](screenshots/page3_risk_matrix.png)
 
 
 
@@ -167,9 +166,11 @@ The following columns and measures were created inside Power BI:
 *Arpit*
 Aspiring Data Analyst
 
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/
+arpit-amale-89796a27b
+
 GitHub: github.com/yourusername
-Email: youremail@gmail.com
+Email: arpitamale100@gmail.com
 
 ---
 
