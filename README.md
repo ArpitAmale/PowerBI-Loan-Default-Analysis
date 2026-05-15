@@ -166,10 +166,10 @@ The following columns and measures were created inside Power BI:
 *Arpit*
 Aspiring Data Analyst
 
-LinkedIn: www.linkedin.com/in/
-arpit-amale-89796a27b
+LinkedIn: www.linkedin.com/in/arpit-amale-89796a27b
 
 GitHub: https://github.com/ArpitAmale
+
 Email: arpitamale100@gmail.com
 
 ---
